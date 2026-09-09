@@ -19,10 +19,7 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
 
-  eslint: {
-    // Corrected to ignoreDuringBuilds
-    ignoreDuringBuilds: true,
-  },
+
 
   productionBrowserSourceMaps: false,
 };
