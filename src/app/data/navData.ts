@@ -162,7 +162,6 @@ export const menuItems: NavItem[] = [
   },
   { label: 'Case Studies', link: '/case-studies' },
   { label: 'Services', link: '/services' },
-  { label: 'Accessories', link: '/accessories' },
   { label: 'Careers', link: '/careers' },
   { label: 'Contact', link: '/contact' },
 ];

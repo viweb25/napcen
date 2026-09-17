@@ -16,49 +16,49 @@ interface Application {
 const industrialApplications: Application[] = [
   { 
     name: 'Chemical Industries', 
-    imagePath: '/gallery/Chemical Manufacturing.webp', 
+    imagePath: '/gallery/Chemical%20Manufacturing.webp', 
     description: 'Advanced scrubbers for VOCs and corrosive gases.', 
     slug: 'chemical' 
   },
   { 
     name: 'Electronics & Semi', 
-    imagePath: '/gallery/Electronic and Semiconductor Manufacturing.webp', 
+    imagePath: '/gallery/Electronic%20and%20Semiconductor%20Manufacturing.webp', 
     description: 'Cleanroom-grade air filtration systems.', 
     slug: 'electronics' 
   },
   { 
     name: 'Food Processing', 
-    imagePath: '/gallery/Food Processing.webp', 
+    imagePath: '/gallery/Food%20Processing.webp', 
     description: 'Odor control and hygiene compliance.', 
     slug: 'food-processing' 
   },
   { 
     name: 'Metal Processing', 
-    imagePath: '/gallery/Metal Processing.webp', 
+    imagePath: '/gallery/Metal%20Processing.webp', 
     description: 'Fume extraction for welding and cutting.', 
     slug: 'metal-processing' 
   },
   { 
     name: 'Mining & Ore', 
-    imagePath: '/gallery/Mining and Ore Processing.webp', 
+    imagePath: '/gallery/Mining%20and%20Ore%20Processing.webp', 
     description: 'Heavy-duty dust and SO2 control.', 
     slug: 'mining' 
   },
   { 
     name: 'Pharma Industries', 
-    imagePath: '/gallery/Pharmaceutical Manufacturing.webp', 
+    imagePath: '/gallery/Pharmaceutical%20Manufacturing.webp', 
     description: 'GMP-compliant solvent recovery.', 
     slug: 'pharma' 
   },
   { 
     name: 'Oil & Gas', 
-    imagePath: '/gallery/Oil and Gas Industry.webp', 
+    imagePath: '/gallery/Oil%20and%20Gas%20Industry.webp', 
     description: 'H2S and methane control systems.', 
     slug: 'oil-gas' 
   },
   { 
     name: 'Wood Working', 
-    imagePath: '/gallery/Woodworking and Furniture Manufacturing.webp', 
+    imagePath: '/gallery/Woodworking%20and%20Furniture%20Manufacturing.webp', 
     description: 'Fine dust extraction for safety.', 
     slug: 'wood-working' 
   }
