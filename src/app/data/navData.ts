@@ -21,7 +21,7 @@ export const industriesData: NavSubItem[] = [
     path: '/industries/chemical',
     title: 'Chemical Process Fume Scrubbing',
     description: 'Corrosion-resistant systems for hazardous gas neutralization.',
-    image: '/gallery/Chemical%20Manufacturing.webp'
+    image: 'https://res.cloudinary.com/defqgygsf/image/upload/v1789629579/Chemical_Process_Fume_Scrubbing_ecspcn.png'
   },
   { 
     name: 'Electronics & Semi', 
@@ -29,7 +29,7 @@ export const industriesData: NavSubItem[] = [
     path: '/industries/electronics',
     title: 'Semiconductor Air Filtration',
     description: 'Ultra-clean filtration for cleanroom environments.',
-    image: '/gallery/Electronic%20and%20Semiconductor%20Manufacturing.webp'
+    image: 'https://res.cloudinary.com/defqgygsf/image/upload/v1789629613/Semiconductor_Air_Filtration_xx2wqr.png'
   },
   { 
     name: 'Food Processing', 
@@ -37,7 +37,7 @@ export const industriesData: NavSubItem[] = [
     path: '/industries/food-processing',
     title: 'Sanitary Dust Collection',
     description: 'Stainless steel solutions for food-grade safety.',
-    image: '/gallery/Food%20Processing.webp'
+    image: 'https://res.cloudinary.com/defqgygsf/image/upload/v1789629627/Sanitary_Dust_Collection_fmuvdh.png'
   },
   { 
     name: 'Metal Processing', 
@@ -45,7 +45,7 @@ export const industriesData: NavSubItem[] = [
     path: '/industries/metal-processing',
     title: 'Metalworking Fume Extraction',
     description: 'Heavy-duty extraction for welding and grinding.',
-    image: '/gallery/Metal%20Processing.webp'
+    image: 'https://res.cloudinary.com/defqgygsf/image/upload/v1789629578/Metalworking_Fume_Extraction_pchvts.png'
   },
   { 
     name: 'Mining & Ore', 
@@ -53,7 +53,7 @@ export const industriesData: NavSubItem[] = [
     path: '/industries/mining',
     title: 'Mining Dust & Gas Control',
     description: 'Robust systems for ore processing and underground ventilation.',
-    image: '/gallery/Mining%20and%20Ore%20Processing.webp'
+    image: 'https://res.cloudinary.com/defqgygsf/image/upload/v1789629586/Mining_Dust_Gas_Control_jugjvp.png'
   },
   { 
     name: 'Water Treatment', 
@@ -61,7 +61,7 @@ export const industriesData: NavSubItem[] = [
     path: '/industries/water-treatment',
     title: 'Municipal Wastewater Odor Control',
     description: 'H2S and odor neutralizing scrubbers for treatment plants.',
-    image: '/gallery/Municipal%20Water%20and%20Wastewater%20Treatment.webp'
+    image: 'https://res.cloudinary.com/defqgygsf/image/upload/v1789629586/Municipal_Wastewater_Odor_Control_xbyohb.png'
   },
   { 
     name: 'Oil & Gas', 
@@ -69,7 +69,7 @@ export const industriesData: NavSubItem[] = [
     path: '/industries/oil-and-gas',
     title: 'Oil & Gas Emission Control',
     description: 'Vapor recovery and gas treatment for refineries.',
-    image: '/gallery/Oil%20and%20Gas%20Industry.webp'
+    image: 'https://res.cloudinary.com/defqgygsf/image/upload/v1789629583/Oil_Gas_Emission_Control_elhqak.png'
   },
   { 
     name: 'Paint & Coatings', 
@@ -77,7 +77,7 @@ export const industriesData: NavSubItem[] = [
     path: '/industries/paint-coatings',
     title: 'VOC & Paint Mist Extraction',
     description: 'Filtration for industrial spray booths and coating lines.',
-    image: '/gallery/Paint%20and%20Coatings%20Manufacturing.webp'
+    image: 'https://res.cloudinary.com/defqgygsf/image/upload/v1789629618/VOC_Paint_Mist_Extraction_zdzzxp.png'
   },
   { 
     name: 'Pharmaceuticals', 
@@ -85,7 +85,7 @@ export const industriesData: NavSubItem[] = [
     path: '/industries/pharma',
     title: 'Pharma Clean Air Systems',
     description: 'GMP-compliant chemical and particulate filtration.',
-    image: '/gallery/Pharmaceutical%20Manufacturing.webp'
+    image: 'https://res.cloudinary.com/defqgygsf/image/upload/v1789629623/Pharma_Clean_Air_Systems_g47due.png'
   },
   { 
     name: 'Textile Industry', 
@@ -93,7 +93,7 @@ export const industriesData: NavSubItem[] = [
     path: '/industries/textile',
     title: 'Textile Fiber & Dust Control',
     description: 'High-volume lint and particulate extraction.',
-    image: '/gallery/Textile%20Industry.webp'
+    image: 'https://res.cloudinary.com/defqgygsf/image/upload/v1789629610/Textile_Industry_cmamez.png'
   },
   { 
     name: 'Waste Incineration', 
@@ -101,7 +101,7 @@ export const industriesData: NavSubItem[] = [
     path: '/industries/waste-incineration',
     title: 'Flue Gas Cleaning Systems',
     description: 'High-temperature filtration for waste-to-energy plants.',
-    image: '/gallery/Waste%20Incineration.webp'
+    image: 'https://res.cloudinary.com/defqgygsf/image/upload/v1789629579/Flue_Gas_Cleaning_Systems_jm1osy.png'
   },
   { 
     name: 'Woodworking', 
@@ -109,7 +109,7 @@ export const industriesData: NavSubItem[] = [
     path: '/industries/woodworking',
     title: 'Wood Dust & Particle Collection',
     description: 'Fire-safe extraction for sawmills and furniture plants.',
-    image: '/gallery/Woodworking%20and%20Furniture%20Manufacturing.webp'
+    image: 'https://res.cloudinary.com/defqgygsf/image/upload/v1789629626/Wood_Dust_Particle_Collection_soejou.png'
   }
 ];
 
